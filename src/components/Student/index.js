@@ -7,7 +7,7 @@ import { useState } from "react";
 
 const Index = () => {
   const [step, setStep] = useState(1);
-  const [studentObject, setStudentObject] = useState({
+  const [studentObject] = useState({
     email: "",
     category: "",
     gender: "",

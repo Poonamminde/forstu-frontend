@@ -8,7 +8,7 @@ import "./index.css";
 const Index = () => {
   const [profile, setProfile] = useState([]);
   const [update, setUpdate] = useState(null);
-  const [object, setObject] = useState({});
+  const [object] = useState({});
   useEffect(() => {
     fetchProfiles();
   }, []);

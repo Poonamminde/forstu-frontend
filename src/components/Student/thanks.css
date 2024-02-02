@@ -1,0 +1,12 @@
+.thanks-container {
+  width: 500px;
+  margin: 25px;
+  border-radius: 7px;
+  line-height: 30px;
+  padding: 30px;
+  background-color: rgb(147, 147, 153);
+}
+#container {
+  display: flex;
+  align-items: center;
+}

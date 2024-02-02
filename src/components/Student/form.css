@@ -1,0 +1,23 @@
+.form-container {
+  width: 500px;
+  margin: 25px;
+  line-height: 30px;
+  background-color: blue;
+}
+.student-form {
+  background-color: rgb(147, 147, 153);
+  text-align: left;
+  padding: 25px;
+}
+.submit-button {
+  padding: 5px;
+  font-size: 27px;
+  margin: 18px;
+  border-radius: 7px;
+  background-color: rgb(8, 8, 104);
+  color: white;
+}
+#container {
+  display: flex;
+  align-items: center;
+}

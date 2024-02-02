@@ -1,0 +1,25 @@
+.college-container {
+  width: 700px;
+  background-color: rgb(87, 178, 178);
+  border-radius: 10px;
+  margin: 35px;
+}
+.submit-button {
+  padding: 5px;
+  font-size: 27px;
+  margin: 18px;
+  border-radius: 7px;
+  background-color: rgb(8, 8, 104);
+  color: white;
+}
+#file {
+  padding: 7px;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+.error {
+  color: red;
+}

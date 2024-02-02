@@ -1,0 +1,9 @@
+.table-heading {
+  background-color: grey;
+  font-size: 22px;
+  margin: 2px 10px 2px 10px;
+}
+tr {
+  padding: 2px 10px 2px 10px;
+  font-size: 16px;
+}

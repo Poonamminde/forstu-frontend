@@ -1,0 +1,18 @@
+.button {
+  background-color: blue;
+  height: 72px;
+  width: 250px;
+  border-radius: 7px;
+  font-size: 32px;
+}
+.button:hover {
+  background-color: rgb(153, 114, 153);
+}
+.home-container {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 17px;
+}
